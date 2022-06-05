@@ -64,7 +64,7 @@ Mods.ClickerClass: {
 	}
 
 	ItemName: {
-		MiceFragment: 老鼠碎片
+		MiceFragment: 鼠标碎片
 		AimAssistModule: 瞄准辅助模块
 		AimbotModule: 瞄准器
 		ABlissfulDay: 幸福的日子
@@ -99,9 +99,9 @@ Mods.ClickerClass: {
 		StickyKeychain: 粘性钥匙扣
 		TheScroller: 滚动条
 		TriggerFinger: 扳机指
-		MiceBoots: 老鼠靴子
-		MiceMask: 老鼠面具
-		MiceSuit: 老鼠服
+		MiceBoots: 鼠标靴子
+		MiceMask: 鼠标面具
+		MiceSuit: 鼠标服
 		MotherboardBoots: 主板靴子
 		MotherboardHelmet: 主板头盔
 		MotherboardSuit: 主板服
