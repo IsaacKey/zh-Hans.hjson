@@ -1,0 +1,379 @@
+Buffs: {
+	AntlionSwarmerMountBuff: {
+		DisplayName: 蚁狮群居者
+		Description: 适合沙丘旅行
+	}
+
+	FinchBasketBuff: {
+		DisplayName: 雀群
+		Description: 你被鸟儿载着
+	}
+
+	MAJ_ArchWyvernMountBuff: {
+		DisplayName: 大飞龙
+		Description: 骑着强大的大飞龙穿越天空
+	}
+
+	MAJ_ArcticFoxTransformationBuff: {
+		DisplayName: 白狐
+		Description: 与雪合而为一
+	}
+
+	MAJ_FlyingSnakeMountBuff: {
+		DisplayName: 飞蛇
+		Description: 小心，它会咬人
+	}
+
+	MAJ_GryphonMountBuff: {
+		DisplayName: 狮鹫
+		Description: 你骑着狮鹫
+	}
+
+	MAJ_MountainDragonMountBuff: {
+		DisplayName: 山龙
+		Description: 正在骑着山龙
+	}
+
+	MAJ_OvergrownFlowerBuff: {
+		DisplayName: 王室玫瑰
+		Description: 爱无所不在
+	}
+
+	MAJ_RaptorBlueMountBuff: {
+		DisplayName: 蓝色猛禽
+		Description: 骑乘蓝色猛禽
+	}
+
+	MAJ_RaptorMountBuff: {
+		DisplayName: 白色猛禽
+		Description: 骑着白色猛禽
+	}
+
+	MAJ_RaptorRedMountBuff: {
+		DisplayName: 红色猛禽
+		Description: 骑乘红色猛禽
+	}
+
+	MAJ_SeahorseMountBuff: {
+		DisplayName: 海马
+		Description: 骑着海马
+	}
+
+	MAJ_SeedMountBuff: {
+		DisplayName: 极速生长的植株
+		Description: 你感觉到自己在进行光合作用
+	}
+
+	MAJ_SpiderMountBuff: {
+		DisplayName: 巨型蜘蛛
+		Description: 蜘蛛恐惧症可能不包括在内
+	}
+
+	MAJ_SquirrelTransformationBuff: {
+		DisplayName: 松鼠
+		Description: 你感觉想要囤积橡子
+	}
+
+	MeteorBoardBuff: {
+		DisplayName: 流星板
+		Description: 它有知觉...
+	}
+
+	MythicalMountBuff: {
+		DisplayName: 传说中的红龙
+		Description: 你是即将来临的风暴
+	}
+
+	NebulaBeholderBuff: {
+		DisplayName: 星云观察者
+		Description: 有只眼睛正盯着你
+	}
+
+	SolarPhoenixBuff: {
+		DisplayName: 太阳凤凰
+		Description: 热的不行
+	}
+
+	StarlingBuff: {
+		DisplayName: 椋鸟
+		Description: 全家都在这里！
+	}
+
+	VortexGunShipBuff: {
+		DisplayName: 涡旋炮舰
+		Description: 当仅一台涡旋驱逐舰不够时
+	}
+
+	WyvernMountBuff: {
+		DisplayName: 飞龙
+		Description: 骑着强大的飞龙穿越天空
+	}
+
+	DwarflingBuff: {
+		DisplayName: 矮人
+		Description: 小矮人将与你一起飞翔
+	}
+}
+
+Items: {
+	CloverKite: {
+		DisplayName: 三叶草风筝
+		Tooltip: 根据你移动的速度增加暴击率
+	}
+
+	CompanionCharm: {
+		DisplayName: 伴身吊饰
+		Tooltip: 骑乘时增加 4 防御力
+	}
+
+	MAJ_CloudBalloonAnimal: {
+		DisplayName: 云朵动物气球
+		Tooltip: 增加坐骑跳跃高度和飞行时间
+	}
+
+	MAJ_DragonFlame: {
+		DisplayName: 龙焰
+		Tooltip:
+			'''
+			让坐骑快速切换方向并在转向时提供冲刺能力
+			'雪花燃烧着温暖的能量'
+			'''
+	}
+
+	MAJ_MightyGoldNugget: {
+		DisplayName: 威武黄金石
+		Tooltip:
+			'''
+			快速移动时减少 18% 受到的伤害
+			坐骑可以以足够快的速度撞击物体
+			'感觉很重，但你拿着它就好了'
+			'''
+	}
+
+	MAJ_SunflowerCharm: {
+		DisplayName: 向日葵吊饰
+		Tooltip:
+			'''
+			坐骑速度提高 14%
+			骑乘时防御力增加 8
+			'''
+	}
+
+	MAJ_SunflowerGem: {
+		DisplayName: 向日葵宝石
+		Tooltip: 坐骑速度提高 10%
+	}
+
+	MAJ_SunnyBalloonAnimal: {
+		DisplayName: 闪亮云朵动物气球
+		Tooltip:
+			'''
+			增加坐骑跳跃高度和飞行时间
+			坐骑速度提高 14%
+			骑乘时防御力增加 8
+			'''
+	}
+
+	CallingSextant: {
+		DisplayName: 闪亮六分仪
+		Tooltip:
+			'''
+			从天上召唤一颗遥远的星星以及它的孩子
+			骑乘时向任意方向双击以传送
+			'''
+	}
+
+	CosmicSigil: {
+		DisplayName: 宇宙印记
+		Tooltip:
+			'''
+			召唤一个宇宙监视者
+			骑乘后，只要你看着向你发射的子弹，你就能击退它们
+			'''
+	}
+
+	FinchBasket: {
+		DisplayName: 山雀喂食器
+		Tooltip: 吸引一群雀鸟将你带上空中
+	}
+
+	IvoryFlute: {
+		DisplayName: 象牙长笛
+		Tooltip: 召唤一条强大的天空龙带你穿越云端
+	}
+
+	MAJ_BlueFeathers: {
+		DisplayName: 远古蓝色羽毛
+		Tooltip: 召唤蓝色猛禽坐骑
+	}
+
+	MAJ_GiantSpiderEgg: {
+		DisplayName: 大蜘蛛蛋
+		Tooltip: 召唤可骑乘的蜘蛛坐骑
+	}
+
+	MAJ_GryphonFeather: {
+		DisplayName: 狮鹫羽毛
+		Tooltip: 召唤一个狮鹫坐骑
+	}
+
+	MAJ_LihzahrdFlute: {
+		DisplayName: 丛林蜥蜴长笛
+		Tooltip: 吸引一条巨大的飞蛇
+	}
+
+	MAJ_MountainJewel: {
+		DisplayName: 山岳宝石
+		Tooltip:
+			'''
+			吸引一只山龙 
+			翅膀强有力的拍动可以推动你向左、向右或向上!
+			'''
+	}
+
+	MAJ_OvergrownSeed: {
+		DisplayName: 极速生长种子袋
+		Tooltip: 种下一朵固定的花，让你在特定区域自由移动
+	}
+
+	MAJ_RedFeathers: {
+		DisplayName: 远古红色羽毛
+		Tooltip: 召唤红色猛禽坐骑
+	}
+
+	MAJ_RoyalBulb: {
+		DisplayName: 王族花苞
+		Tooltip:
+			'''
+			召唤王族玫瑰
+			任何被藤蔓抓住的东西都会被荆棘毒死
+			'''
+	}
+
+	MAJ_ScalyFlute: {
+		DisplayName: 鳞状长笛
+		Tooltip: 召唤一条曾经迷失在时间里的巨大天空龙
+	}
+
+	MAJ_ShellHorn: {
+		DisplayName: 贝壳喇叭
+		Tooltip: 召唤海马坐骑
+	}
+
+	MAJ_SoftSnowball: {
+		DisplayName: 软雪球
+		Tooltip:
+			'''
+			将携带者变成北极狐
+			按 Down 键在雪中挖洞
+			'''
+	}
+
+	MAJ_StrangeAcorn: {
+		DisplayName: 奇怪的橡子
+		Tooltip: 将持有者变成松鼠
+	}
+
+	MAJ_WeatherOrb: {
+		DisplayName: 天气球体
+		Tooltip:
+			'''
+			暴露于自然力量的结果。
+			似乎它已经吸收了它曾经所属的存在。
+			移动会为传说中的红龙收集电荷。
+			右键释放电荷发动攻击!
+			'你帮助我的球体恢复，我感谢你，泰拉瑞亚人。'
+			'''
+	}
+
+	MAJ_WeatherOrbInert: {
+		DisplayName: 惰性天气球
+		Tooltip:
+			'''
+			一个沉重但易碎的水晶球。
+			你可以感觉到当它在暴风雨中时会闪闪发光。 也许此时扔掉它可能会导致一些事情发生？
+			'''
+	}
+
+	MAJ_WhiteFeathers: {
+		DisplayName: 远古白色羽毛
+		Tooltip: 召唤白色猛禽坐骑
+	}
+
+	MeteorBoard: {
+		DisplayName: 流星板
+		Tooltip: 这块板将悬停在离地面一小段距离的地方
+	}
+
+	SandyGoggles: {
+		DisplayName: 沙漠飞行员
+		Tooltip: 召唤敏捷的蚁狮群
+	}
+
+	SolarAsh: {
+		DisplayName: 太阳灰
+		Tooltip:
+			'''
+			召唤传说中的涅槃之鸟
+			你可以通过向左或向右双击来冲刺。
+			冲刺击中敌人后可以立即点击一个方向以继续冲刺
+			'''
+	}
+
+	VortexBeacon: {
+		DisplayName: 涡旋信标
+		Tooltip:
+			'''
+			呼叫涡旋炮舰到你所在的位置
+			它配有一对大炮
+			66% 几率不消耗弹药
+			'''
+	}
+
+	WeatherOrbShardSnow: {
+		DisplayName: 雪之碎片
+		Tooltip: 冰冷的破碎残骸
+	}
+
+	WeatherOrbShardStorm: {
+		DisplayName: 风暴碎片
+		Tooltip: 电能的破碎残骸
+	}
+
+	WeatherOrbShardSun: {
+		DisplayName: 阳光碎片
+		Tooltip: 闪亮的破碎残骸
+	}
+
+	WornFlute: {
+		DisplayName: 破旧的长笛
+		Tooltip: 这可能会召唤某种东西，尽管它几乎吹不出声音
+	}
+}
+
+Projectiles: {
+	DwarflingMinion.DisplayName: Dwarfling Minion
+	ElectricExplosion.DisplayName: Electric Explosion
+	MAJ_DragonLightning.DisplayName: Dragon Lightning
+	MAJ_DragonLightning_Arc.DisplayName: Dragon Lightning Arc
+	MAJ_FlyingSnakeBite.DisplayName: Flying Snake Bite
+	MAJ_HookSpike.DisplayName: Hook Spike
+	MAJ_OvergrownFlowerHook.DisplayName: Flower Hook
+	MAJ_WeatherOrbInertProjectile.DisplayName: Inert Weather Orb (Projectile)
+	StarlingMine.DisplayName: Starling Mine
+}
+
+Configs: {
+	MountAndJourneyConfig: {
+		DisplayName: Mount And Journey设置
+
+		UseAlternateTextures: {
+			Label: 使用替代贴图
+			Tooltip:
+				'''
+				更改某些坐骑以使用其原始贴图，如果你正在使用资源包，这就会很有用。
+				请注意，这将禁用一些动画
+				'''
+		}
+	}
+}
