@@ -115,18 +115,18 @@ Buffs: {
 	}
 
 	MAJ_SparrowTransformationBuff: {
-		// DisplayName: Sparrow
-		// Description: You have become a sparrow
+		DisplayName: 麻雀
+		Description: 你变成了一只麻雀
 	}
 
 	MAJ_OtterronMountBuff: {
-		// DisplayName: Otter Dragon
-		// Description: They're a great diving companion!
+		DisplayName: 水獭龙
+		Description: 它们是很棒的潜水伙伴！
 	}
 
 	MAJ_WingedWyvernTransformationBuff: {
-		// Description: Not to be confused with a Wyvern
-		// DisplayName: Winged Wyvern
+		Description: 不要与飞龙混淆了
+		DisplayName: 带翼飞龙
 	}
 }
 
@@ -366,52 +366,52 @@ Items: {
 	}
 
 	MAJ_RiceBall: {
-		// DisplayName: Rice Ball
-		// Tooltip: Transforms the bearer into a sparrow
+		DisplayName: 饭团
+		Tooltip: 将使用者变成麻雀
 	}
 
 	MAJ_JewelSalmon: {
-		// DisplayName: Jewel Salmon
-		// Tooltip: Attracts a rideable Otter Dragon
+		DisplayName: 宝石鲑鱼
+		Tooltip: 吸引一只可供骑乘的水獭龙
 	}
 
 	MAJ_FieryAmulet: {
-		// Tooltip: Turns the bearer into a winged wyvern
-		// DisplayName: Fiery Amulet
+		Tooltip: 将使用者变成带翼飞龙
+		DisplayName: 炽热护符
 	}
 
 	MAJ_PrismFlower: {
-		// DisplayName: Prism Flower
-		// Tooltip: Greatly increases mount speed after moving for a while
+		DisplayName: 棱镜花朵
+		Tooltip: 持续移动一段时间后大幅提升坐骑速度
 	}
 
 	MAJ_ShootingStar: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Greatly increases mount speed after moving for a while
-			Allows mounts to quickly switch direction
-			''' */
-		// DisplayName: Shooting Star
+			持续移动一段时间后大幅提升坐骑速度
+			允许坐骑切换方向时更快
+			'''
+		DisplayName: 飞星
 	}
 
 	MAJ_ArcaneDefenseRune: {
-		// DisplayName: Arcane Defense Rune
-		/* Tooltip:
+		DisplayName: 奥术护印
+		Tooltip:
 			'''
-			8 defense
-			Mounts do contact damage while not moving fast
-			''' */
+			8 防御力
+			坐骑没在快速移动时可以对敌人造成接触伤害
+			'''
 	}
 
 	MAJ_SigilOfPower: {
-		// DisplayName: Sigil of Power
-		/* Tooltip:
+		DisplayName: 力量印记
+		Tooltip:
 			'''
-			16 defense
-			Mounts do contact damage while not moving fast
-			Ramming enemies will cause an explosion
-			Reduces damage taken by 18% while moving fast
-			''' */
+			16 防御力
+			坐骑没在快速移动时可以对敌人造成接触伤害
+			撞击敌人时会引起爆炸
+			快速移动时减少 18% 受到的伤害
+			'''
 	}
 }
 
@@ -425,10 +425,10 @@ Projectiles: {
 	MAJ_OvergrownFlowerHook.DisplayName: Flower Hook
 	MAJ_WeatherOrbInertProjectile.DisplayName: Inert Weather Orb (Projectile)
 	StarlingMine.DisplayName: Starling Mine
-	// MAJ_WyvernFireBall.DisplayName: Wyvern Fire Ball
-	// MAJ_WyvernFireBallExplosion.DisplayName: Wyvern Fire Ball Explosion
-	// MAJ_StarImpact.DisplayName: Star Impact
-	// MAJ_MountWeatherOrb.DisplayName: Weather Orb
+	MAJ_WyvernFireBall.DisplayName: Wyvern Fire Ball
+	MAJ_WyvernFireBallExplosion.DisplayName: Wyvern Fire Ball Explosion
+	MAJ_StarImpact.DisplayName: Star Impact
+	MAJ_MountWeatherOrb.DisplayName: Weather Orb
 }
 
 Configs: {
