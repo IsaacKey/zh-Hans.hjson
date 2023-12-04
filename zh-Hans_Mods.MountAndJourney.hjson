@@ -113,6 +113,21 @@ Buffs: {
 		DisplayName: 矮人
 		Description: 小矮人将与你一起飞翔
 	}
+
+	MAJ_SparrowTransformationBuff: {
+		// DisplayName: Sparrow
+		// Description: You have become a sparrow
+	}
+
+	MAJ_OtterronMountBuff: {
+		// DisplayName: Otter Dragon
+		// Description: They're a great diving companion!
+	}
+
+	MAJ_WingedWyvernTransformationBuff: {
+		// Description: Not to be confused with a Wyvern
+		// DisplayName: Winged Wyvern
+	}
 }
 
 Items: {
@@ -280,7 +295,7 @@ Items: {
 			'''
 			暴露于自然力量的结果。
 			似乎它已经吸收了它曾经所属的存在。
-			移动会为传说中的红龙收集电荷。
+			用这个球体撞击敌人会产生电能，传说中的红龙会吸收这些电能。
 			右键释放电荷发动攻击!
 			'你帮助我的球体恢复，我感谢你，泰拉瑞亚人。'
 			'''
@@ -349,6 +364,55 @@ Items: {
 		DisplayName: 破旧的长笛
 		Tooltip: 这可能会召唤某种东西，尽管它几乎吹不出声音
 	}
+
+	MAJ_RiceBall: {
+		// DisplayName: Rice Ball
+		// Tooltip: Transforms the bearer into a sparrow
+	}
+
+	MAJ_JewelSalmon: {
+		// DisplayName: Jewel Salmon
+		// Tooltip: Attracts a rideable Otter Dragon
+	}
+
+	MAJ_FieryAmulet: {
+		// Tooltip: Turns the bearer into a winged wyvern
+		// DisplayName: Fiery Amulet
+	}
+
+	MAJ_PrismFlower: {
+		// DisplayName: Prism Flower
+		// Tooltip: Greatly increases mount speed after moving for a while
+	}
+
+	MAJ_ShootingStar: {
+		/* Tooltip:
+			'''
+			Greatly increases mount speed after moving for a while
+			Allows mounts to quickly switch direction
+			''' */
+		// DisplayName: Shooting Star
+	}
+
+	MAJ_ArcaneDefenseRune: {
+		// DisplayName: Arcane Defense Rune
+		/* Tooltip:
+			'''
+			8 defense
+			Mounts do contact damage while not moving fast
+			''' */
+	}
+
+	MAJ_SigilOfPower: {
+		// DisplayName: Sigil of Power
+		/* Tooltip:
+			'''
+			16 defense
+			Mounts do contact damage while not moving fast
+			Ramming enemies will cause an explosion
+			Reduces damage taken by 18% while moving fast
+			''' */
+	}
 }
 
 Projectiles: {
@@ -361,6 +425,10 @@ Projectiles: {
 	MAJ_OvergrownFlowerHook.DisplayName: Flower Hook
 	MAJ_WeatherOrbInertProjectile.DisplayName: Inert Weather Orb (Projectile)
 	StarlingMine.DisplayName: Starling Mine
+	// MAJ_WyvernFireBall.DisplayName: Wyvern Fire Ball
+	// MAJ_WyvernFireBallExplosion.DisplayName: Wyvern Fire Ball Explosion
+	// MAJ_StarImpact.DisplayName: Star Impact
+	// MAJ_MountWeatherOrb.DisplayName: Weather Orb
 }
 
 Configs: {
