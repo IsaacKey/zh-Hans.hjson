@@ -446,8 +446,8 @@ Configs: {
 		}
 
 		UsePillarMountGlyphs: {
-			Label: 天界塔坐骑雕文视效
-			Tooltip: 启用或禁用天界塔坐骑后方显示的发光雕文
+			Label: 四柱坐骑雕文视效
+			Tooltip: 启用或禁用四柱坐骑后方显示的发光雕文
 		}
 
 		MountDashKeybindOnly: {
