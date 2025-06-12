@@ -290,19 +290,19 @@ Items: {
 	}
 
 	MAJ_WeatherOrb: {
-		DisplayName: 天气球
+		DisplayName: 气象球
 		Tooltip:
 			'''
 			暴露在自然伟力之下的结果。
 			似乎吸收了它曾经所属的存在。
 			用这个球撞击敌人会积累能量，红龙会吸收这些能量。
 			右键释放能量发动攻击!
-			'你帮助我的天气球恢复力量，我感谢你，泰拉瑞亚人。'
+			'你帮助我的气象球恢复力量，我感谢你，泰拉瑞亚人。'
 			'''
 	}
 
 	MAJ_WeatherOrbInert: {
-		DisplayName: 惰性天气球
+		DisplayName: 惰性气象球
 		Tooltip:
 			'''
 			一个沉重但易碎的水晶球。
@@ -317,7 +317,7 @@ Items: {
 
 	MeteorBoard: {
 		DisplayName: 流星板
-		Tooltip: 这块板将悬停在离地面一小段距离的地方
+		Tooltip: 这块流行板会悬停在离地面一小段距离的地方
 	}
 
 	SandyGoggles: {
