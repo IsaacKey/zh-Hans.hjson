@@ -160,7 +160,7 @@ Items: {
 		Tooltip:
 			'''
 			快速移动时减少 18% 受到的伤害
-			坐骑可以以足够快的速度撞击物体
+			坐骑快速移动时可以撞击敌人
 			'感觉很重，但你就拿着它吧'
 			'''
 	}
@@ -203,7 +203,7 @@ Items: {
 		Tooltip:
 			'''
 			召唤一个宇宙监视者
-			骑乘后，只要你看着向你发射的弹幕可以推开它们
+			骑乘时，只要你看着向你发射的弹幕就可以推开它们
 			'''
 	}
 
@@ -330,7 +330,7 @@ Items: {
 		Tooltip:
 			'''
 			召唤传说中的涅槃之鸟
-			你可以通过向左或向右双击来冲刺。
+			你可以通过向左或向右双击来冲刺
 			冲刺击中敌人后可以立即点击一个方向以继续冲刺
 			'''
 	}
@@ -409,8 +409,9 @@ Items: {
 			'''
 			16 防御力
 			坐骑速度不快时，可以造成碰撞伤害
+			坐骑快速移动时可以撞击敌人
 			撞击敌人时会引起爆炸
-			快速移动时减少 18% 受到的伤害
+			坐骑快速移动时减少 18% 受到的伤害
 			'''
 	}
 }
@@ -445,13 +446,13 @@ Configs: {
 		}
 
 		UsePillarMountGlyphs: {
-			Label: Pillar mount glyph visuals
-			Tooltip: Enables/disables the glowing glyph displayed behind the pillar mounts
+			Label: 柱子坐骑雕文视效
+			Tooltip: 启用或禁用柱子坐骑后方显示的发光雕文
 		}
 
 		MountDashKeybindOnly: {
 			Label: 禁用坐骑双击方向键冲刺
-			Tooltip: 使得坐骑只在按下冲刺键时才会冲刺
+			Tooltip: 启用后，坐骑只在按下冲刺键时才会冲刺
 		}
 	}
 }
