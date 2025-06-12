@@ -142,7 +142,7 @@ Items: {
 	}
 
 	MAJ_CloudBalloonAnimal: {
-		DisplayName: 云朵动物气球
+		DisplayName: 云朵兔兔气球
 		Tooltip: 增加坐骑跳跃高度和飞行时间
 	}
 
@@ -161,7 +161,7 @@ Items: {
 			'''
 			快速移动时减少 18% 受到的伤害
 			坐骑可以以足够快的速度撞击物体
-			'感觉很重，但你拿着它就好了'
+			'感觉很重，但你就拿着它吧'
 			'''
 	}
 
@@ -180,7 +180,7 @@ Items: {
 	}
 
 	MAJ_SunnyBalloonAnimal: {
-		DisplayName: 闪亮云朵动物气球
+		DisplayName: 闪亮云朵兔兔气球
 		Tooltip:
 			'''
 			增加坐骑跳跃高度和飞行时间
@@ -193,8 +193,8 @@ Items: {
 		DisplayName: 闪亮六分仪
 		Tooltip:
 			'''
-			从天上召唤一颗遥远的星星以及它的孩子
-			骑乘时向任意方向双击以传送
+			从天上召唤一颗遥远的星星，以及它的孩子们
+			骑乘时向任意方向双击以闪现
 			'''
 	}
 
@@ -203,23 +203,23 @@ Items: {
 		Tooltip:
 			'''
 			召唤一个宇宙监视者
-			骑乘后，只要你看着向你发射的子弹，你就能击退它们
+			骑乘后，只要你看着向你发射的弹幕可以推开它们
 			'''
 	}
 
 	FinchBasket: {
 		DisplayName: 山雀喂食器
-		Tooltip: 吸引一群雀鸟将你带上空中
+		Tooltip: 吸引一群雀鸟拽着你飞到空中
 	}
 
 	IvoryFlute: {
 		DisplayName: 象牙长笛
-		Tooltip: 召唤一条强大的天空龙带你穿越云端
+		Tooltip: 召唤一条强大的飞龙带你穿越云端
 	}
 
 	MAJ_BlueFeathers: {
-		DisplayName: 远古蓝色羽毛
-		Tooltip: 召唤蓝色猛禽坐骑
+		DisplayName: 远古蓝羽毛
+		Tooltip: 召唤蓝色大鸟坐骑
 	}
 
 	MAJ_GiantSpiderEgg: {
@@ -234,40 +234,40 @@ Items: {
 
 	MAJ_LihzahrdFlute: {
 		DisplayName: 丛林蜥蜴长笛
-		Tooltip: 吸引一条巨大的飞蛇
+		Tooltip: 召唤一条带翼飞蛇坐骑
 	}
 
 	MAJ_MountainJewel: {
 		DisplayName: 山岳宝石
 		Tooltip:
 			'''
-			吸引一只山龙 
-			翅膀强有力的拍动可以推动你向左、向右或向上!
+			召唤一条岩龙坐骑 
+			拍动强而有力的翅膀推动你四处移动!
 			'''
 	}
 
 	MAJ_OvergrownSeed: {
 		DisplayName: 极速生长种子袋
-		Tooltip: 种下一朵固定的花，让你在特定区域自由移动
+		Tooltip: 种下一朵固定在原地的花，托着你在这片区域内自由移动
 	}
 
 	MAJ_RedFeathers: {
-		DisplayName: 远古红色羽毛
-		Tooltip: 召唤红色猛禽坐骑
+		DisplayName: 远古红羽毛
+		Tooltip: 召唤红色大鸟坐骑
 	}
 
 	MAJ_RoyalBulb: {
 		DisplayName: 王族花苞
 		Tooltip:
 			'''
-			召唤王族玫瑰
-			任何被藤蔓抓住的东西都会被荆棘毒死
+			召唤王族玫瑰坐骑
+			任何被藤蔓抓住的东西都会中毒
 			'''
 	}
 
 	MAJ_ScalyFlute: {
 		DisplayName: 鳞状长笛
-		Tooltip: 召唤一条曾经迷失在时间里的巨大天空龙
+		Tooltip: 召唤一条曾经迷失在时间里的巨大飞龙坐骑
 	}
 
 	MAJ_ShellHorn: {
@@ -280,7 +280,7 @@ Items: {
 		Tooltip:
 			'''
 			将携带者变成北极狐
-			按 Down 键在雪中挖洞
+			按 向下 键在雪中挖洞
 			'''
 	}
 
@@ -290,14 +290,14 @@ Items: {
 	}
 
 	MAJ_WeatherOrb: {
-		DisplayName: 天气球体
+		DisplayName: 天气球
 		Tooltip:
 			'''
-			暴露于自然力量的结果。
-			似乎它已经吸收了它曾经所属的存在。
-			用这个球体撞击敌人会产生电能，传说中的红龙会吸收这些电能。
-			右键释放电荷发动攻击!
-			'你帮助我的球体恢复，我感谢你，泰拉瑞亚人。'
+			暴露在自然伟力之下的结果。
+			似乎吸收了它曾经所属的存在。
+			用这个球撞击敌人会积累能量，红龙会吸收这些能量。
+			右键释放能量发动攻击!
+			'你帮助我的天气球恢复力量，我感谢你，泰拉瑞亚人。'
 			'''
 	}
 
@@ -311,8 +311,8 @@ Items: {
 	}
 
 	MAJ_WhiteFeathers: {
-		DisplayName: 远古白色羽毛
-		Tooltip: 召唤白色猛禽坐骑
+		DisplayName: 远古白羽毛
+		Tooltip: 召唤白色大鸟坐骑
 	}
 
 	MeteorBoard: {
@@ -346,23 +346,23 @@ Items: {
 	}
 
 	WeatherOrbShardSnow: {
-		DisplayName: 雪之碎片
-		Tooltip: 冰冷的破碎残骸
+		DisplayName: 冰雪碎片
+		Tooltip: 冰雪的破碎残骸
 	}
 
 	WeatherOrbShardStorm: {
 		DisplayName: 风暴碎片
-		Tooltip: 电能的破碎残骸
+		Tooltip: 闪电的破碎残骸
 	}
 
 	WeatherOrbShardSun: {
 		DisplayName: 阳光碎片
-		Tooltip: 闪亮的破碎残骸
+		Tooltip: 阳光的破碎残骸
 	}
 
 	WornFlute: {
 		DisplayName: 破旧的长笛
-		Tooltip: 这可能会召唤某种东西，尽管它几乎吹不出声音
+		Tooltip: 或许可以召唤某种东西，尽管它几乎吹不出声音
 	}
 
 	MAJ_RiceBall: {
@@ -372,7 +372,7 @@ Items: {
 
 	MAJ_JewelSalmon: {
 		DisplayName: 宝石鲑鱼
-		Tooltip: 吸引一只可供骑乘的水獭龙
+		Tooltip: 召唤一只可供骑乘的水獭龙
 	}
 
 	MAJ_FieryAmulet: {
@@ -389,13 +389,13 @@ Items: {
 		Tooltip:
 			'''
 			持续移动一段时间后大幅提升坐骑速度
-			允许坐骑切换方向时更快
+			让坐骑切换方向的速度更快
 			'''
 		DisplayName: 飞星
 	}
 
 	MAJ_ArcaneDefenseRune: {
-		DisplayName: 奥术护印
+		DisplayName: 护身符箓
 		Tooltip:
 			'''
 			8 防御力
@@ -445,15 +445,15 @@ Configs: {
 		}
 
 		UsePillarMountGlyphs: {
-			// Label: Pillar mount glyph visuals
-			// Tooltip: Enables/disables the glowing glyph displayed behind the pillar mounts
+			Label: Pillar mount glyph visuals
+			Tooltip: Enables/disables the glowing glyph displayed behind the pillar mounts
 		}
 
 		MountDashKeybindOnly: {
-			// Label: Disable mount dashing with double tap
-			// Tooltip: Mounts will only dash with the Mount Dash keybind.
+			Label: 禁用坐骑双击方向键冲刺
+			Tooltip: 使得坐骑只在按下冲刺键时才会冲刺
 		}
 	}
 }
 
-// "Keybinds.Mount Dash.DisplayName": Mount Dash
+"Keybinds.Mount Dash.DisplayName": 坐骑冲刺
